@@ -1,42 +1,39 @@
-Discovery Doc
+## Discovery Doc
 
-Background
-Attendees: 
-Databricks: 
-
-
-
-Current State
-What tools are you currently using today? Anything else? Walk me through your entire pipeline. 
-
-
-What challenges/bottlenecks do you see with your current tools? Identify current metrics.
-
-
-Why are these challenges important to your business? (productivity, cost, revenue, risk) 
+### Background
+### Attendees: 
+### Databricks: 
 
 
 
-Future State
+## Current State
+* What tools are you currently using today? Anything else? Walk me through your entire pipeline. 
+
+
+* What challenges/bottlenecks do you see with your current tools? Identify current metrics.
+
+
+* Why are these challenges important to your business? (productivity, cost, revenue, risk) 
 
 
 
-
-
-Positive Business Outcomes
+## Future State
 
 
 
-Metrics / Success Criteria (yes/no criteria) 
+## Positive Business Outcomes
 
 
-Next steps: 
+
+## Metrics / Success Criteria (yes/no criteria) 
+
+
+## Next steps: 
 If they’re uncomfortable setting up a follow-up call, ask what you 
 
 
 
-
-MEDDICC 
+### MEDDICC 
 Metrics
  
 Economic Buyer 
@@ -53,7 +50,7 @@ Competition
 
 Partners
 
-The Mantra 
+### The Mantra 
 What I hear you saying is that these are the Positive Business Outcomes you are trying to achieve: 
 
 In order to Achieve these Positive Business Outcomes we agreed that these are the required capabilities you are going to need:
