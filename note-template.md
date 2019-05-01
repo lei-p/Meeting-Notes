@@ -29,36 +29,36 @@
 
 
 ## Next steps: 
-If they’re uncomfortable setting up a follow-up call, ask what you 
+* If they’re uncomfortable setting up a follow-up call, ask what you 
 
 
 
 ### MEDDICC 
-Metrics
+* Metrics
  
-Economic Buyer 
+* Economic Buyer 
 
-Decision Maker
+* Decision Maker
 
-Decision Process
+* Decision Process
 
-Identify Pain 
+* Identify Pain 
 
-Champion
+* Champion
 
-Competition
+* Competition
 
-Partners
+* Partners
 
 ### The Mantra 
-What I hear you saying is that these are the Positive Business Outcomes you are trying to achieve: 
+* What I hear you saying is that these are the Positive Business Outcomes you are trying to achieve: 
 
-In order to Achieve these Positive Business Outcomes we agreed that these are the required capabilities you are going to need:
+* In order to Achieve these Positive Business Outcomes we agreed that these are the required capabilities you are going to need:
 
-And you would like to measure these required capabilities using these Metrics:  
+* And you would like to measure these required capabilities using these Metrics:  
 
-Let me tell you how we do it:
+* Let me tell you how we do it:
 
-Let me tell you how we do it better:
+* Let me tell you how we do it better:
 
-But don’t take my word for it: 
+* But don’t take my word for it: 
